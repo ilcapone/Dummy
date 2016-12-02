@@ -1,0 +1,169 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     4010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+Platform assembly: C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Öuri\Documents\Dummy_1.0(020616)\Dummy\Builds\DummyMapMonkey1.3_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3200x1143 at -1280,0
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'PanelWin') is missing!
+ 
+(Filename:  Line: 1655)
+
+UnloadTime: 0.529965 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 874 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.669917 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3212.
+Total: 0.610807 ms (FindLiveObjects: 0.114526 ms CreateObjectMapping: 0.040100 ms MarkObjects: 0.392341 ms  DeleteObjects: 0.048120 ms)
+
+The referenced script on this Behaviour (Game Object 'PanelWin') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.460172 ms
+
+Unloading 732 unused Assets to reduce memory usage. Loaded Objects now: 463.
+Total: 2.760823 ms (FindLiveObjects: 0.056461 ms CreateObjectMapping: 0.037213 ms MarkObjects: 0.227127 ms  DeleteObjects: 2.439379 ms)
+
+Scene 'DummyMap_Inmersivo' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 513)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.444952 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3252.
+Total: 0.720200 ms (FindLiveObjects: 0.157834 ms CreateObjectMapping: 0.084691 ms MarkObjects: 0.427629 ms  DeleteObjects: 0.049403 ms)
+
+Case 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 3 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 3 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 3 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 3 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 3 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Case 3 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object 'PanelWin') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.417184 ms
+
+Unloading 724 unused Assets to reduce memory usage. Loaded Objects now: 463.
+Total: 3.152202 ms (FindLiveObjects: 0.050365 ms CreateObjectMapping: 0.023097 ms MarkObjects: 0.312140 ms  DeleteObjects: 2.765956 ms)
+
